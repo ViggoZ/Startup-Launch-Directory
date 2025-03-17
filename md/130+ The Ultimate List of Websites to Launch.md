@@ -1,7 +1,5 @@
 ### The Ultimate List of Websites to Launch
 
-原文地址：[https://launchin.co/directory](https://launchin.co/directory)
-
 |Name|DA|Website|Tags|Price|Submission|
 |-----|--|-------|-----|-----|----------|
 |Producthunt|91|https://www.producthunt.com/|All Startups|Free|https://www.producthunt.com/posts/new|
@@ -135,3 +133,5 @@
 |DevPages                                                     |27                                                                                                                |https://www.devpages.io/                                                                                |Marketing    |Free      |https://www.devpages.io/submit-a-tool                                                                               |
 |LiveApps                                                     |2                                                                                                                 |https://liveapps.ai/                                                                                    |AI           |Free      |https://liveapps.ai/become-a-partner                                                                                |
 |BasedTools                                                   |36                                                                                                                |https://www.basedtools.ai/                                                                              |AI           |Free      |https://www.basedtools.ai/submit                                                                                    |
+
+原文地址：[https://launchin.co/directory](https://launchin.co/directory)

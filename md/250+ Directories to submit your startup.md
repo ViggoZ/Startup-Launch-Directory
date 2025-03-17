@@ -1,7 +1,5 @@
 ### 250+ Directories to submit your startup
 
-原文地址：[https://growstartup.co/directory-list/](https://growstartup.co/directory-list/)
-
 | Name | Discription | Traffic | DA | Link |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---|----|-------|
 |Postmake                                                     |Curated tools and resources for your next project                                                                 |Traffic: 39.1K/m|DA: 25|https://postmake.io/|
@@ -286,3 +284,5 @@
 |Flickr                                                       |Find your inspiration.                                                                                            |Traffic: 53.8M/m|DA: 92|https://www.flickr.com/|
 |Partner Optimizer                                            |AI Data-Driven B2B Partner Discovery,                                                                             |Traffic: 10.6K/m|DA: 18|https://partneroptimizer.com/|
 |Citymapia                                                    |End To End Web & Enterprise Solutions                                                                             |Traffic: 23K/m|DA: 24|https://www.citymapia.com/|
+
+原文地址：[https://growstartup.co/directory-list/](https://growstartup.co/directory-list/)

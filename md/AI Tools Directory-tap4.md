@@ -1,7 +1,5 @@
 ### AI Tools Directory
 
-原文地址：[https://tap4.ai/user-growth/ai-tools-directory/](https://tap4.ai/user-growth/ai-tools-directory/)
-
 |DA|Name|Price|Discription|website|
 |---|---|---|---|---|
 |74|There's An AI For That (TAAFT)|$347|The largest AI Tools Directory which collects more than 12000 AIs. It will collect the AI Product which is published in Product Hunt.|https://theresanaiforthat.com/|
@@ -39,3 +37,5 @@
 |0                                                            |AIFINDY                                                                                                           |Free                                                                                                    |An online platform dedicated to helping users quickly find the AI tools they need.|https://aifindy.com/|
 |0                                                            |AIToolsDirectory                                                                                                  |Free                                                                                                    |A detailed categorized AI tools directory that helps users discover new tools and applications.|https://aitoolsdirectory.com/|
 |0                                                            |AI Valley                                                                                                         |Free                                                                                                    |A platform that gathers AI tools, aiming to provide practical resources for AI developers and users.|https://aivalley.ai/|
+
+原文地址：[https://tap4.ai/user-growth/ai-tools-directory/](https://tap4.ai/user-growth/ai-tools-directory/)

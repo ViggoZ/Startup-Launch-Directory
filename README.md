@@ -1,11 +1,11 @@
-# Startup Launch Directory | 创业推广导航
+# Startup Launch Directory | 出海推广资源库
 
 [English](#english) | [中文](#chinese)
 
 <a name="chinese"></a>
 ## 中文介绍
 
-Startup Launch Directory 是一个全面的创业推广资源库，专注于帮助中国创业者和产品开发者进行海外推广。我整合了全球范围内的推广平台、目录网站和社区资源，让您的产品能够更轻松地触达国际市场。
+Startup Launch Directory 是一个全面的出海推广资源库，专注于帮助中国创业者和产品开发者进行海外推广。我整合了全球范围内的推广平台、目录网站和社区资源，让您的产品能够更轻松地触达国际市场。
 
 ### 🌟 主要特点
 

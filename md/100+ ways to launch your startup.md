@@ -1,7 +1,5 @@
 ### 100+ ways to launch your startup
 
-原文地址：[tmaker.io](https://www.tmaker.io/home/100-ways-to-launch-your-startup-100m-reach-potential)
-
 |Name|URL|Difficulty|Type|Potential Reach|Resource|
 |-----|---|----------|----|--------------|----|
 |The Startup Pitch|https://thestartuppitch.com/|Easy|Directory|<10K|https://www.youtube.com/watch?v=17XZGUX_9iM|
@@ -103,3 +101,6 @@
 |Roast Or Toast                                               |https://roastortoast.io/                                                                                          |roastortoast.io/          |/                         |Medium                    |Community                                             |<10K                                                                                                                   |https://roastortoast.io/submit/step/1                                                        |roastortoast.io/sub…step/1           |/sub…step/1               |
 |F6S                                                          |https://www.f6s.com/                                                                                              |f6s.com/                  |/                         |Easy                      |Community                                             |100K-1M                                                                                                                |https://www.youtube.com/watch?v=L3agAZVpj3o                                                  |youtube.com/wat…ZVpj3o               |/wat…ZVpj3o               |
 |Wip . Co                                                     |https://wip.co/                                                                                                   |wip.co/                   |/                         |Easy                      |Community                                             |<10K                                                                                                                   |https://wip.co/posts                                                                         |wip.co/posts                         |/posts                    |
+
+
+原文地址：[tmaker.io](https://www.tmaker.io/home/100-ways-to-launch-your-startup-100m-reach-potential)

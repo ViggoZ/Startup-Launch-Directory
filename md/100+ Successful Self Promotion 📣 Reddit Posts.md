@@ -1,7 +1,5 @@
 ### 100+ Successful Self Promotion 📣 Reddit Posts
 
-原文地址：[yespromo.me](yespromo.me)
-
 |Subreddit                                                    |Sub Category                                                                                                      |Post Title                                                                                              |Engagement   |Upvotes   |Comments|Image  |Video/GIF|Link                                                                                                            |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------|----------|--------|-------|---------|----------------------------------------------------------------------------------------------------------------|
 |r/stocks                                                     |Finance                                                                                                           |I built a program that tracks mentions and sentiment of stocks across Reddit and Twitter to find rising stocks|0.40%        |10241     |791     |       |         |https://www.reddit.com/r/stocks/comments/lmmn1g/i_built_a_program_that_tracks_mentions_and/                     |
@@ -108,3 +106,6 @@
 |r/SaaSSales                                                  |SaaS                                                                                                              |A checklist of 15+ CRO tips for your SaaS                                                               |0.70%        |6         |0       |       |         |https://www.reddit.com/r/SaaSSales/comments/j7wpv0/a_checklist_of_15_cro_tips_for_your_saas/                    |
 |r/B2BSaaS                                                    |SaaS                                                                                                              |Linkedin Automation: Building a LinkedIn Bot with Followups from Scratch                                |0.50%        |6         |2       |       |checked  |https://www.reddit.com/r/B2BSaaS/comments/g7qtrv/linkedin_automation_building_a_linkedin_bot_with/              |
 |                                                             |                                                                                                                  |                                                                                                        |NaN          |          |        |       |         |                                                                                                                |
+
+
+原文地址：[yespromo.me](yespromo.me)
