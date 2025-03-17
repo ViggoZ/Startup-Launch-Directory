@@ -19,10 +19,14 @@ Startup Launch Directory 是一个全面的创业推广资源库，专注于帮�
 
 #### [AI零基础建站指南](https://aimaker.dev/) 
 
-![AI零基础建站指南](aimaker.webp)
+[![AI零基础建站指南](aimaker.webp)](https://aimaker.dev/)
 
 > 使用Cursor快速开发网站
 Cursor完全使用教程，不需要编程基础，通过学习基础和实战项目，从环境配置到上线部署， 让你快速掌握现代网站开发技能。零门槛，重实战，轻松实现想法，上线自己的产品！
+
+### 开始学习👇🏻
+
+官网链接：[https://aimaker.dev/guide](https://aimaker.dev/guide)
 
 - 🎯 适合零基础学习者
 - 🛠 现代化技术栈（Next.js, Tailwind CSS 等）
@@ -30,10 +34,6 @@ Cursor完全使用教程，不需要编程基础，通过学习基础和实战�
 - 👨‍🏫 系统化学习路径
 - 🚀 从环境配置到上线部署的完整指南
 - 💬 活跃的学习社群支持
-
-### 开始学习👇🏻
-
-官网链接：[https://aimaker.dev/guide](https://aimaker.dev/guide)
 
 我开放了《AI零基础建站指南》中开发前期准备的前三节免费课程：
 
@@ -101,7 +101,7 @@ Startup Launch Directory is a comprehensive resource library focused on helping 
 
 #### [AI Website Building Guide for Beginners](https://aimaker.dev/)
 
-![AI Website Building Guide](aimaker.webp)
+[![AI Website Building Guide](aimaker.webp)](https://aimaker.dev/)
 
 > Build websites as easily as chatting with Cursor and AI assistant
 
