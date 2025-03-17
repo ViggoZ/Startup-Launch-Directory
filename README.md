@@ -7,14 +7,6 @@
 
 Startup Launch Directory 是一个全面的出海推广资源库，专注于帮助中国创业者和产品开发者进行海外推广。我整合了全球范围内的推广平台、目录网站和社区资源，让您的产品能够更轻松地触达国际市场。
 
-### 🌟 主要特点
-
-- 📚 250+ 精选推广平台
-- 🔍 AI产品外链建设指南
-- 🌐 海外推广资源汇总
-- 🚀 创业产品发布目录
-- 💡 出海推广最佳实践
-
 ### 📊 资源列表
 
 | 资源名称 | Markdown 文档 | CSV 下载 |
@@ -62,6 +54,13 @@ Cursor完全使用教程，不需要编程基础，通过学习基础和实战�
 课程地址https://aimaker.dev/guide/preparation/software
 🎯 这三节课程是开发的重要基础，建议大家按顺序学习，跟着教程一步一步操作。我们VIP群已经有很多同学完成了自己的作品，其实真正做出一个产品只需要十几分钟！
 
+### 🌟 主要特点
+
+- 📚 250+ 精选推广平台
+- 🔍 AI产品外链建设指南
+- 🌐 海外推广资源汇总
+- 🚀 创业产品发布目录
+- 💡 出海推广最佳实践
 
 ### 📂 目录结构
 
@@ -103,14 +102,6 @@ Cursor完全使用教程，不需要编程基础，通过学习基础和实战�
 
 Startup Launch Directory is a comprehensive resource library focused on helping Chinese entrepreneurs and product developers promote their products globally. We have compiled directories, communities, and media platforms worldwide to help your product reach international markets more effectively.
 
-### 🌟 Key Features
-
-- 📚 250+ Curated Promotion Platforms
-- 🔍 AI Product Backlink Building Guide
-- 🌐 Global Promotion Resources
-- 🚀 Startup Product Launch Directories
-- 💡 Global Marketing Best Practices
-
 ### 📊 Resource Lists
 
 | Resource Name | Markdown Document | CSV Download |
@@ -141,6 +132,14 @@ Startup Launch Directory is a comprehensive resource library focused on helping 
 - 💬 Active learning community
 
 [Start Learning](https://aimaker.dev/guide)
+
+### 🌟 Key Features
+
+- 📚 250+ Curated Promotion Platforms
+- 🔍 AI Product Backlink Building Guide
+- 🌐 Global Promotion Resources
+- 🚀 Startup Product Launch Directories
+- 💡 Global Marketing Best Practices
 
 ### 📂 Directory Structure
 
