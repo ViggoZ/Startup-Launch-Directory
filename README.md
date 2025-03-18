@@ -11,15 +11,15 @@ Startup Launch Directory 是一个全面的出海推广资源库，专注于帮�
 
 | 资源名称 | Markdown 文档 | CSV 下载 |
 |---------|-------------|----------|
-| 250+ Directories to submit your startup | [查看文档](/md/250%2B%20Directories%20to%20submit%20your%20startup.md) | [下载 CSV](/csv/250%2B%20Directories%20to%20submit%20your%20startup.csv) |
-| AI Tools Directory | [查看文档](/md/AI%20Tools%20Directory-tap4.md) | [下载 CSV](/csv/AI%20Tools%20Directory-tap4.csv) |
-| 150+ directories to submit your new startup | [查看文档](/md/150%2B%20directories%20to%20submit%20your%20new%20startup.md) | [下载 CSV](/csv/150%2B%20directories%20to%20submit%20your%20new%20startup.csv) |
-| 130+ The Ultimate List of Websites to Launch | [查看文档](/md/130%2B%20The%20Ultimate%20List%20of%20Websites%20to%20Launch.md) | [下载 CSV](/csv/130%2B%20The%20Ultimate%20List%20of%20Websites%20to%20Launch.csv) |
-| 120+ Backlinks | [查看文档](/md/120%2B%20Backlinks.md) | [下载 CSV](/csv/120%2B%20Backlinks.csv) |
-| 100+ ways to launch your startup | [查看文档](/md/100%2B%20ways%20to%20launch%20your%20startup.md) | [下载 CSV](/csv/100%2B%20ways%20to%20launch%20your%20startup.csv) |
-| 100+ The Ultimate Directory for AI Creators | [查看文档](/md/100%2B%20The%20Ultimate%20Directory%20for%20AI%20Creators.md) | [下载 CSV](/csv/100%2B%20The%20Ultimate%20Directory%20for%20AI%20Creators.csv) |
-| 100+ Successful Self Promotion Reddit Posts | [查看文档](/md/100%2B%20Successful%20Self%20Promotion%20📣%20Reddit%20Posts.md) | [下载 CSV](/csv/100%2B%20Successful%20Self%20Promotion%20📣%20Reddit%20Posts.csv) |
-| 100+ DIR | [查看文档](/md/100%2B%20DIR.md) | [下载 CSV](/csv/100%2B%20DIR.csv) |
+| 250+ Directories to submit your startup | [查看文档](/md/01-startup-directories.md) | [下载 CSV](/csv/01-startup-directories.csv) |
+| AI Tools Directory | [查看文档](/md/02-ai-tools-directory.md) | [下载 CSV](/csv/02-ai-tools-directory.csv) |
+| 150+ directories to submit your new startup | [查看文档](/md/03-new-startup-directories.md) | [下载 CSV](/csv/03-new-startup-directories.csv) |
+| 130+ The Ultimate List of Websites to Launch | [查看文档](/md/04-launch-websites.md) | [下载 CSV](/csv/04-launch-websites.csv) |
+| 120+ Backlinks | [查看文档](/md/05-backlinks.md) | [下载 CSV](/csv/05-backlinks.csv) |
+| 100+ ways to launch your startup | [查看文档](/md/06-startup-launch-ways.md) | [下载 CSV](/csv/06-startup-launch-ways.csv) |
+| 100+ The Ultimate Directory for AI Creators | [查看文档](/md/07-ai-creators-directory.md) | [下载 CSV](/csv/07-ai-creators-directory.csv) |
+| 100+ Successful Self Promotion Reddit Posts | [查看文档](/md/08-reddit-promotion-posts.md) | [下载 CSV](/csv/08-reddit-promotion-posts.csv) |
+| 100+ DIR | [查看文档](/md/09-general-directories.md) | [下载 CSV](/csv/09-general-directories.csv) |
 
 ### 📱 推荐课程
 
@@ -106,15 +106,15 @@ Startup Launch Directory is a comprehensive resource library focused on helping 
 
 | Resource Name | Markdown Document | CSV Download |
 |-------------|-------------|----------|
-| 250+ Directories to submit your startup | [View Document](/md/250%2B%20Directories%20to%20submit%20your%20startup.md) | [Download CSV](/csv/250%2B%20Directories%20to%20submit%20your%20startup.csv) |
-| AI Tools Directory | [View Document](/md/AI%20Tools%20Directory-tap4.md) | [Download CSV](/csv/AI%20Tools%20Directory-tap4.csv) |
-| 150+ directories to submit your new startup | [View Document](/md/150%2B%20directories%20to%20submit%20your%20new%20startup.md) | [Download CSV](/csv/150%2B%20directories%20to%20submit%20your%20new%20startup.csv) |
-| 130+ The Ultimate List of Websites to Launch | [View Document](/md/130%2B%20The%20Ultimate%20List%20of%20Websites%20to%20Launch.md) | [Download CSV](/csv/130%2B%20The%20Ultimate%20List%20of%20Websites%20to%20Launch.csv) |
-| 120+ Backlinks | [View Document](/md/120%2B%20Backlinks.md) | [Download CSV](/csv/120%2B%20Backlinks.csv) |
-| 100+ ways to launch your startup | [View Document](/md/100%2B%20ways%20to%20launch%20your%20startup.md) | [Download CSV](/csv/100%2B%20ways%20to%20launch%20your%20startup.csv) |
-| 100+ The Ultimate Directory for AI Creators | [View Document](/md/100%2B%20The%20Ultimate%20Directory%20for%20AI%20Creators.md) | [Download CSV](/csv/100%2B%20The%20Ultimate%20Directory%20for%20AI%20Creators.csv) |
-| 100+ Successful Self Promotion Reddit Posts | [View Document](/md/100%2B%20Successful%20Self%20Promotion%20📣%20Reddit%20Posts.md) | [Download CSV](/csv/100%2B%20Successful%20Self%20Promotion%20📣%20Reddit%20Posts.csv) |
-| 100+ DIR | [View Document](/md/100%2B%20DIR.md) | [Download CSV](/csv/100%2B%20DIR.csv) |
+| 250+ Directories to submit your startup | [View Document](/md/01-startup-directories.md) | [Download CSV](/csv/01-startup-directories.csv) |
+| AI Tools Directory | [View Document](/md/02-ai-tools-directory.md) | [Download CSV](/csv/02-ai-tools-directory.csv) |
+| 150+ directories to submit your new startup | [View Document](/md/03-new-startup-directories.md) | [Download CSV](/csv/03-new-startup-directories.csv) |
+| 130+ The Ultimate List of Websites to Launch | [View Document](/md/04-launch-websites.md) | [Download CSV](/csv/04-launch-websites.csv) |
+| 120+ Backlinks | [View Document](/md/05-backlinks.md) | [Download CSV](/csv/05-backlinks.csv) |
+| 100+ ways to launch your startup | [View Document](/md/06-startup-launch-ways.md) | [Download CSV](/csv/06-startup-launch-ways.csv) |
+| 100+ The Ultimate Directory for AI Creators | [View Document](/md/07-ai-creators-directory.md) | [Download CSV](/csv/07-ai-creators-directory.csv) |
+| 100+ Successful Self Promotion Reddit Posts | [View Document](/md/08-reddit-promotion-posts.md) | [Download CSV](/csv/08-reddit-promotion-posts.csv) |
+| 100+ DIR | [View Document](/md/09-general-directories.md) | [Download CSV](/csv/09-general-directories.csv) |
 
 ### 📱 Recommended Course
 
