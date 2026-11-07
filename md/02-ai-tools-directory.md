@@ -39,3 +39,4 @@
 |0                                                            |AI Valley                                                                                                         |Free                                                                                                    |A platform that gathers AI tools, aiming to provide practical resources for AI developers and users.|https://aivalley.ai/|
 
 原文地址：[https://tap4.ai/user-growth/ai-tools-directory/](https://tap4.ai/user-growth/ai-tools-directory/)
+| |Public Prompts|US$19.99 once plus tax|Curated AI-tools directory; paid owner submissions before editorial review, refunded if declined. Browsing is free.|https://www.publicprompts.art/|
